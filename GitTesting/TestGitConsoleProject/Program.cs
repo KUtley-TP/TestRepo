@@ -9,7 +9,7 @@ namespace TestGitConsoleProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First Change didn't work, trying again");
+            Console.WriteLine("First Change didn't work, trying a third time, using git bash to commit");
         }
     }
 }
