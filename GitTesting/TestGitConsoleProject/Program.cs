@@ -9,7 +9,7 @@ namespace TestGitConsoleProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Change to test Code Review Creation with Smart Commit");
+            Console.WriteLine("First Change didn't work, trying again");
         }
     }
 }
